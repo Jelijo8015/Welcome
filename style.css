@@ -1,0 +1,31 @@
+.name{
+ color: red;
+ font-weight: bolder;
+ font-size: 100px;
+}
+.Welcome{
+    font-size: 50px;
+    color:white;
+}
+body{
+    background-color: black;
+}
+h4{
+    color:white;
+}
+h1{
+    color:white;
+}
+#shortcuts{
+    text-align: center;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+h1{
+    font-weight: 900;
+}
+#info{
+    text-align:center;
+}
